@@ -1,4 +1,4 @@
-# DistanceLights
+# Distance Controlled Lights with a Raspberry Pi
 This project was created for my CPSC 499 independent project
 
 The final product is a working distance activated light strip with a camera that will take photos at a desired distance.
